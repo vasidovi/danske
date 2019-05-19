@@ -10,3 +10,5 @@
   - Then take your ecripted file and commit/push to the solution branch.
   - Check if your file is present in the repository.
   - That's it!
+  
+  P.S. If you follow all requirements you will get 1 point.

@@ -118,7 +118,7 @@ var tasks = [
 '//millis from provided data.\n\n'+
 '//Input: date in a string.  Like: 2018-08-13 17.00.05:542;\n'+
 '//Expected output from a function in console:\n'+
-'//Current time is 17 hours, 00 min, 05 sec & 542 millis. Date: 13/08/2017.\n\n'+
+'//Current time is 17 hours, 00 min, 05 sec & 542 millis. Date: 13/08/2018.\n\n'+
 'function convert(input){\n'+
 '	var output = "Current time is 17 hours, 00 min, 05 sec & 542 millis. Date: 13/08/2018.";\n\n'+	
 '       //your solution should be here\n\n'+

@@ -183,7 +183,7 @@ var tests = [
 '}\n',
 
 
-"if(isPrime(11)){\n"+
+"if(isPrime(11) && !isPrime(8)){\n"+
 '	alert("Solution is good");\n'+
 '}\n'+
 'else{\n'+
